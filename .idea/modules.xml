@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-alura-viagens-parte-1-aula-7.iml" filepath="$PROJECT_DIR$/.idea/modules/android-alura-viagens-parte-1-aula-7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-alura-viagens-parte-1-aula-7.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-alura-viagens-parte-1-aula-7.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-alura-viagens-parte-1-aula-7.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-alura-viagens-parte-1-aula-7.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-alura-viagens-parte-1-aula-7.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-alura-viagens-parte-1-aula-7.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-alura-viagens-parte-1-aula-7.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-alura-viagens-parte-1-aula-7.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-alura-viagens-parte-2-aula-5.iml" filepath="$PROJECT_DIR$/.idea/modules/android-alura-viagens-parte-2-aula-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-alura-viagens-parte-2-aula-5.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-alura-viagens-parte-2-aula-5.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-alura-viagens-parte-2-aula-5.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-alura-viagens-parte-2-aula-5.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-alura-viagens-parte-2-aula-5.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-alura-viagens-parte-2-aula-5.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-alura-viagens-parte-2-aula-5.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-alura-viagens-parte-2-aula-5.app.unitTest.iml" />
     </modules>
   </component>
 </project>
